@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:projek_sesi5/detail_page.dart';
-import 'package:projek_sesi5/criminal.dart';
+import 'package:mrizkyn_uts/detail_page.dart';
+import 'package:mrizkyn_uts/criminal.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key});

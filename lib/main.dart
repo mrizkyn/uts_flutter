@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:projek_sesi5/home_page.dart';
+import 'package:mrizkyn_uts/home_page.dart';
 
 void main() {
   runApp(const MyApp());

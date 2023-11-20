@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:projek_sesi5/criminal.dart';
+import 'package:mrizkyn_uts/criminal.dart';
 
 class DetailPages extends StatelessWidget {
   final Criminal criminal;
